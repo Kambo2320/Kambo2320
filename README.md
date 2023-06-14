@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kamden Burke
-- 🎓 Currently a full time student at UH
+- 🎓 Currently an alumni from UH
 - 🧠 An interesting fact about me is that I am a brain cancer survivor, I started my journey on March 23rd, 2018 and have been in remission since June 3rd 2021!
 - 👀 I’m interested in Game development
 - 🌱 I’m currently learning C++, game development, graphic design, & software design
